@@ -1,0 +1,9 @@
+form{
+    border-bottom: 5px groove #000fff;
+    border-left: 10px solid #000;
+    border-right: 10px solid #000;
+    border-top: 10px solid #000;
+}
+body{
+    background:linear-gradient(100deg,#000, 3%,#fff 10%);
+}
